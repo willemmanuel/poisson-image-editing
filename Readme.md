@@ -9,7 +9,10 @@ http://www.cs.virginia.edu/~connelly/class/2014/comp_photo/proj2/poisson.pdf
 
 USAGE:
 vagrant up && vagrant ssh
+
 python main.py
+
+Dependencies: numpy, scipy.sparse, opencv
 
 Place a target image, source image, and mask image in a directory in /input.
 One directory is needed per image group to be processed.
