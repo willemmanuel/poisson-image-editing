@@ -1,7 +1,9 @@
 ## Poisson Image Editing
 
 William Emmanuel
+
 Computational Photography Project
+
 Combines a source image, target image, and mask to create a content-aware blend.
 
 
@@ -14,7 +16,7 @@ http://www.cs.virginia.edu/~connelly/class/2014/comp_photo/proj2/poisson.pdf
 ![result](https://raw.githubusercontent.com/willemmanuel/poisson-image-editing/master/output/2/result.png)
 
 
-USAGE:
+### Usage
 vagrant up && vagrant ssh
 
 python main.py
