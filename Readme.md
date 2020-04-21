@@ -2,6 +2,7 @@
 
 William Emmanuel
 Computational Photography Project
+Combines a source image, target image, and mask to create a content-aware blend.
 
 
 Based on Patrick Perez, Michel Gangnet, and Andrew Blake's original paper on Poisson Image Editing
