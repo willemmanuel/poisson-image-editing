@@ -7,6 +7,12 @@ Computational Photography Project
 Based on Patrick Perez, Michel Gangnet, and Andrew Blake's original paper on Poisson Image Editing
 http://www.cs.virginia.edu/~connelly/class/2014/comp_photo/proj2/poisson.pdf
 
+![source](https://raw.githubusercontent.com/willemmanuel/poisson-image-editing/master/input/2/source.jpg) + 
+![mask](https://raw.githubusercontent.com/willemmanuel/poisson-image-editing/master/input/2/mask.jpg) + 
+![target](https://raw.githubusercontent.com/willemmanuel/poisson-image-editing/master/input/2/target.jpg) = 
+![result](https://raw.githubusercontent.com/willemmanuel/poisson-image-editing/master/output/2/result.png)
+
+
 USAGE:
 vagrant up && vagrant ssh
 
